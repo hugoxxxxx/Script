@@ -1,6 +1,6 @@
 const BASE_URL = 'https://www.youtube.com/premium'
 
-const link = { "media-url": "https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/southpark/7.png" } 
+const link = { "media-url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png" } 
 const policy_name = "Netflix&Disney+節點檢測" //填入你的 youtube 策略组名
 
 const arrow = "➟"
