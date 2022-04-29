@@ -1,7 +1,13 @@
+/***
+Thanks to & modified https://gist.githubusercontent.com/Hyseen/5ae36a6a5cb5690b1f2bff4aa19c766f/raw/youtube_premium_check.js?version=1632728073
+For Quantumult-X / [task-local]
+@XIAO_KOP
+**/
+
 const BASE_URL = 'https://www.youtube.com/premium'
 
 const link = { "media-url": "https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/southpark/7.png" } 
-const policy_name = "Netflix&Disney+節點檢測" //填入你的 youtube 策略组名
+const policy_name = "YouTube" //填入你的 youtube 策略组名
 
 const arrow = "➟"
 var output = ""
