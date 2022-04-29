@@ -6,6 +6,18 @@
   "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney+.png",
   "repo": "https://github.com/hugoxxxxx/Script",
   "apps": [
+
+    {
+      "id": "10010Ck",
+      "name": "中国联通",
+      "keys": ["@YaYa_10010.cookie"],
+      "author": "@dompling",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/10010.png",
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png"
+      ]
+    },
+
     {
       "id": "DisneyPlusPolicySwitcher",
       "name": "Disney+ 策略组切换",
@@ -191,17 +203,5 @@
 }
 
 
-
-
-    {
-      "id": "10010Ck",
-      "name": "中国联通",
-      "keys": ["@YaYa_10010.cookie"],
-      "author": "@dompling",
-      "icons": [
-        "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/10010.png",
-        "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png"
-      ]
-    },
 
 
