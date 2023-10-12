@@ -9,10 +9,6 @@
         "id":"yuheng.imaotai",
         "name":"i茅台預約",
         "descs_html":["<a target='_blank' href='https://github.com/Yuheng0101/X/tree/main/Tasks/imaotai'>README.md</a>"],
-        "icons": [
-        "https://raw.githubusercontent.com/hugoxxxxx/Script/main/iMaoTai.png",
-        "https://raw.githubusercontent.com/hugoxxxxx/Script/main/iMaoTai.png"
-      ],
         "keys":[
         "imaotai__config__clearshopdir",
         "imaotai__config__province",
@@ -75,7 +71,14 @@
           "rows":1,
           "desc": "默認留空選擇最近店鋪"
          }
-       ]
-     }
-   ]
- }
+        ],
+            "author": "@yuheng",
+            "repo": "https://github.com/Yuheng0101/X",
+            "icons": [
+                "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/mini.png",
+                "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/color.png"
+            ],
+            "script": "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/step.js"
+        }
+    ]
+}
