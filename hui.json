@@ -23,5 +23,47 @@
         "address",//詳細地址
         "location",//經緯度
         "shopid",//店鋪ID
-        
-        
+      ],
+      "settings": [
+        {
+          "id": "province",
+          "name": "省份",
+          "val": "",
+          "type": "text",
+          "desc": "XX省 / 直辖市"
+        },
+        {
+          "id": "city",
+          "name": "城市",
+          "val": "",
+          "type": "text",
+          "desc": "XX市 / 直辖市"
+        },
+        {
+          "id": "itemList",
+          "name": "預約項",
+          "val": "",
+          "type": "text",
+          "desc": "10213, 10214"
+        },
+         {
+          "id": "address",
+          "name": "詳細地址",
+          "val": "",
+          "type": "text",
+          "desc": "海南省三亞市海棠區"
+        },
+         {
+          "id": "location",
+          "name": "經緯度",
+          "val": "",
+          "type": "text",
+          "desc": "還不確定不填"
+        },
+         {
+          "id": "shopid",
+          "name": "店鋪ID",
+          "val": "",
+          "type": "text",
+          "desc": "還在確定附近店鋪ID"
+        },
