@@ -1,7 +1,7 @@
 {
     "id": "yuheng.app.sub",
-    "name": "yuheng 脚本订阅",
-    "author": "@yuheng",
+    "name": "liang 脚本订阅",
+    "author": "liang",
     "icon": "https://avatars.githubusercontent.com/u/50571734?s=460&u=808616a26243d457cae2e41ffa728895e1e5ed4b&v=4",
     "repo": "https://github.com/Yuheng0101/X",
     "apps": [
@@ -52,14 +52,6 @@
           "type": "text",
           "rows":1,
           "desc": "盡量具體，最好精確到小區"
-        },
-         {
-          "id": "imaotai__config__location",
-          "name": "經緯度",
-          "val": "",
-          "type": "text",
-          "rows":1,
-          "desc": "還不確定不填"
         },
          {
           "id": "imaotai__config__shopid",
