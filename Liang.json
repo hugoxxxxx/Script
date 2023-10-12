@@ -15,6 +15,7 @@
         "imaotai__config__city",
         "imaotai__config__itemcode",
         "imaotai__config__address",
+        "imaotai__config__location",
         "imaotai__config__shopid"],"settings":[{"id":
         "imaotai__config__clearshopdir",
         "name":"是否清空店鋪字段",
@@ -53,6 +54,14 @@
           "type": "text",
           "rows":1,
           "desc": "盡量具體，最好精確到小區"
+        },
+        {
+          "id": "imaotai__config__location",
+          "name": "地址經緯度",
+          "val": "",
+          "type": "text",
+          "rows":1,
+          "desc": "不知道留空"
         },
          {
           "id": "imaotai__config__shopid",
