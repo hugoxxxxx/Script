@@ -65,7 +65,9 @@
           "val": "",
           "type": "text",
           "desc": "還在確定附近店鋪ID"
-        }
+         }
+      ]
+    },
         {
             "id": "yuheng.mi.step",
             "name": "小米刷步",
