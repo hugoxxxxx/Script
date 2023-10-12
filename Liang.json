@@ -5,6 +5,7 @@
     "icon": "https://raw.githubusercontent.com/hugoxxxxx/Script/main/Liang.json",
     "repo": "https://github.com/hugoxxxxx",
     "apps": [
+        {
         "id":"yuheng.imaotai",
         "name":"i茅台預約",
         "descs_html":["<a target='_blank' href='https://github.com/Yuheng0101/X/tree/main/Tasks/imaotai'>README.md</a>"],
