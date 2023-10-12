@@ -1,90 +1,10 @@
 {
-  "id": "liang",
-  "name": "liang 脚本合集",
-  "description": "",
-  "author": "liang",
-  "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney+.png",
-  "repo": "https://github.com/hugoxxxxx/Script",
-  "apps": [
-        {
-      "id": "iMaoTai",
-      "name": "i茅台",
-      "author": "@hugo",
-      "script": "",
-      "descs_html": [""],
-      "icons": [
-        "https://raw.githubusercontent.com/hugoxxxxx/Script/main/iMaoTai.png",
-        "https://raw.githubusercontent.com/hugoxxxxx/Script/main/iMaoTai.png"
-      ],
-      "keys": [
-        "MT_TOKENS",
-        "MT_PROVINCE",
-        "MT_CITY",
-        "MT_DISTRICT",
-        "MT_ITEM_BLACK",
-        "MT_VERSION",
-        "MT_USERAGENT",
-        "MT_R"
-      ],
-      "settings": [
-        {
-          "id": "MT_TOKENS",
-          "name": "i茅台Token",
-          "val": "",
-          "type": "textarea",
-          "autoGrow": true,
-          "rows": 1,
-          "desc": ""
-        },
-        {
-          "id": "MT_PROVINCE",
-          "name": "省份",
-          "val": "",
-          "type": "text",
-          "desc": "XX省 / 直辖市"
-        },
-        {
-          "id": "MT_CITY",
-          "name": "城市",
-          "val": "",
-          "type": "text",
-          "desc": "XX市 / 直辖市"
-        },
-        {
-          "id": "MT_DISTRICT",
-          "name": "区域",
-          "val": "",
-          "type": "text",
-          "desc": "xx区|xx区"
-        },
-        {
-          "id": "MT_ITEM_BLACK",
-          "name": "商品黑名单",
-          "val": "",
-          "type": "text",
-          "desc": "2478|10056"
-        },
-        {
-          "id": "MT_VERSION",
-          "name": "APP版本号",
-          "val": "",
-          "type": "text",
-          "desc": "x.x.x"
-        },
-        {
-          "id": "MT_USERAGENT",
-          "name": "用户标识",
-          "val": "",
-          "type": "text",
-          "desc": "iOS;16.1.2;Apple;"
-        },
-        {
-          "id": "MT_R",
-          "name": "MT_R",
-          "val": "",
-          "type": "text",
-          "desc": "clips_xxx"
-        }
+    "id": "yuheng.app.sub",
+    "name": "yuheng 脚本订阅",
+    "author": "@yuheng",
+    "icon": "https://avatars.githubusercontent.com/u/50571734?s=460&u=808616a26243d457cae2e41ffa728895e1e5ed4b&v=4",
+    "repo": "https://github.com/Yuheng0101/X",
+    "apps": [
         {
             "id": "yuheng.mi.step",
             "name": "小米刷步",
