@@ -17,12 +17,12 @@
         "https://raw.githubusercontent.com/hugoxxxxx/Script/main/iMaoTai.png"
       ],
       "keys": [
-        "province",//省份
-        "city",//城市
-        "itemList",//預約項
-        "address",//詳細地址
-        "location",//經緯度
-        "shopid",//店鋪ID
+        "province",
+        "city",
+        "itemList",
+        "address",
+        "location",
+        "shopid",
       ],
       "settings": [
         {
