@@ -72,13 +72,13 @@
           "desc": "默認留空選擇最近店鋪"
          }
         ],
-            "author": "@yuheng",
+            "author": "@hugo",
             "repo": "https://github.com/Yuheng0101/X",
             "icons": [
-                "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/mini.png",
-                "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/color.png"
+                "https://raw.githubusercontent.com/hugoxxxxx/Script/main/iMaoTai.png",
+                "https://raw.githubusercontent.com/hugoxxxxx/Script/main/iMaoTai.png"
             ],
-            "script": "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/step.js"
+            "script": "https://raw.githubusercontent.com/hugoxxxxx/Script/main/beifenmaotai.js"
         }
     ]
 }
