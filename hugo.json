@@ -10,7 +10,7 @@
       "id": "iMaoTai",
       "name": "i茅台",
       "author": "@hugo",
-      "script": "",
+      "script": "https://raw.githubusercontent.com/hugoxxxxx/Script/main/maotai.js",
       "descs_html": [""],
       "icons": [
         "https://raw.githubusercontent.com/hugoxxxxx/Script/main/iMaoTai.png",
