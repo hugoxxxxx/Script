@@ -21,7 +21,6 @@
         "city",
         "itemList",
         "itemMap",
-        "MT_ITEM_BLACK",
-        "MT_VERSION",
-        "MT_USERAGENT",
-        "MT_R"
+        "location",
+        "shopid",
+        
