@@ -8,6 +8,7 @@
         {
         "id":"yuheng.imaotai",
         "name":"i茅台預約",
+        "script": "https://raw.githubusercontent.com/hugoxxxxx/Script/main/beifenmaotai.js",
         "descs_html":["<a target='_blank' href='https://github.com/Yuheng0101/X/tree/main/Tasks/imaotai'>README.md</a>"],
         "icons": [
         "https://raw.githubusercontent.com/hugoxxxxx/Script/main/iMaoTai.png",
