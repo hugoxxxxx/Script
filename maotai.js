@@ -44,7 +44,7 @@ cron "17 9 * * *" script-path=https://raw.githubusercontent.com/hugoxxxxx/Script
 hostname = app.moutai519.com.cn
 
 [rewrite_local]
-^https:\/\/app\.moutai519\.com\.cn\/xhr\/front\/mall\/message\/unRead\/query url script-request-https://raw.githubusercontent.com/hugoxxxxx/Script/main/maotai.js
+https://app.moutai519.com.cn/xhr/front/user/info url script-response-body https://raw.githubusercontent.com/hugoxxxxx/Script/main/maotai.js
 
 [task_local]
 17 9 * * * https://raw.githubusercontent.com/hugoxxxxx/Script/main/maotai.js, tag=i 茅台, enabled=true
